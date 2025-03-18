@@ -1,0 +1,23 @@
+"0","packages <- c(""dplyr"",""shiny"",""shinythemes"", ""stringdist"")"
+"0",""
+"0","for (pack in packages){"
+"0","  if(!requireNamespace(pack, quietly = TRUE)){"
+"0","    install.packages(pack)"
+"0","  }"
+"0","  library(pack, character.only = TRUE)"
+"0","}"
+"2","
+Attachement du package : ‘dplyr’
+
+"
+"2","Les objets suivants sont masqués depuis ‘package:stats’:
+
+    filter, lag
+
+"
+"2","Les objets suivants sont masqués depuis ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+"
+"2","Avis : le package ‘shinythemes’ a été compilé avec la version R 4.4.3"

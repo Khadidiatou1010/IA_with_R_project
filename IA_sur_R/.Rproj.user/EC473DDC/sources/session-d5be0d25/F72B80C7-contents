@@ -24,7 +24,7 @@ for (pack in packages){
 # definition de l'ensemble des reponses
 ```{r }
 #Importation des bases
-base_rep <- read.csv("../base_de_vie_personne.csv")
+base_rep <- read.csv("./base_de_vie_personne.csv")
 Reponses <- function(utilisateur){
   questions <- base_rep$questions#c("Bonjour", "Comment ça va?", "Quel est ton nom?", "Aide-moi", "tu connais ILLY jacques?")
   responses <- base_rep$réponses#c("Bonjour! Comment puis-je vous aider?", "Je vais bien, merci! Et vous?", 
