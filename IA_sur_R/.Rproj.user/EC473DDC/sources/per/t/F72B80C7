@@ -3,7 +3,7 @@
     "path": "~/GitHub/IA_with_R_project/IA_sur_R/chatbot.Rmd",
     "project_path": "chatbot.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "3820153386",
     "contents": "",
     "dirty": false,
     "created": 1742172091444.0,
@@ -13,16 +13,17 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "15,23",
-        "scrollLine": "5",
-        "last_setup_crc32": "d5be0d25bb338d19"
+        "cursorPosition": "31,139",
+        "scrollLine": "25",
+        "last_setup_crc32": "d393a819bb338d19",
+        "docOutlineVisible": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1742335770,
+    "lastKnownWriteTime": 1742345448,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1742335770980,
+    "last_content_update": 1742345448598,
     "read_only": false,
     "read_only_alternatives": []
 }
