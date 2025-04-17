@@ -1,6 +1,6 @@
-# RTutor
+# 🎓 RTutor, chat with your data !
 
-**RTutor** est une plateforme et un package R interactif qui vous permet d’apprendre et d’explorer R en langage naturel. Grâce à l’IA (ChatGPT ou autres modèles compatibles), RTutor :
+**RTutor** est une plateforme et un package R interactif qui vous permet d’apprendre et d’explorer R en langage naturel. Grâce à l’IA (ChatGPT), RTutor :
 
 - Traduit vos **instructions en langage simple** en code R exécutable  
 - Propose des **exercices guidés**, quiz et notebooks interactifs  
