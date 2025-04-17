@@ -1,6 +1,7 @@
 # IA_with_R_project 💥
 
 **Auteurs :**  Illy Jacques, Khadidiatou Coulibaly
+
 **Superviseur :** M. Aboubacar Hema
 
 ## Vibe coding
