@@ -1,0 +1,14 @@
+Name: Assistance DeepSeek
+Description: Gadget IA DeepSeek
+Binding: deepseek_addin
+Interactive: true
+
+Name: Assistance ChatGPT
+Description: Gadget IA ChatGPT
+Binding: chatgpt_addin
+Interactive: true
+
+Name: Assistance Groq
+Description: Gadget IA Groq
+Binding: groq_addin
+Interactive: true

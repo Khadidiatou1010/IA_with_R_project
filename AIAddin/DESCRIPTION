@@ -1,0 +1,19 @@
+Package: AIAddin
+Title:  Addin RStudio pour l'assistance IA
+Version: 0.1.0
+Authors@R: 
+    person(given = "Khadidiatou", family = "Jacques",
+           email = "coulibalykhadidiatou123400@gmail.com", role = c("aut", "cre"))
+Description: Ouvre un gadget dans le Viewer pane pour poser des questions à l'IA de notre choix.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports:
+  shiny,
+  miniUI,
+  htmltools,
+  httr,
+  jsonlite,
+  rstudioapi
+
