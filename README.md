@@ -16,7 +16,7 @@ Une méthode qui redéfinit la productivité et l'accessibilité en programmatio
 
 Dans ce repository, nous essayons de faciliter cette approche pour les R users.
 
-Au programme 🎓 ?
+**Au programme 🎓 ?**
 
 ## Installation de GitHub Copilot pour R  
    Nous l'avions sur VS Code, c'est maintannat possible pour R. Bénéficiez de suggestions de code et d’autocomplétions instantanées directement dans RStudio.
