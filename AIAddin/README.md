@@ -18,7 +18,7 @@ install.packages("remotes")
 # Puis :
 remotes::install_github(
   repo   = "Khadidiatou1010/IA_with_R_project",
-  subdir = "IAAddin",
+  subdir = "AIAddin",
   dependencies = TRUE
 )
 ```
