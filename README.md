@@ -19,7 +19,7 @@ Dans ce repository, nous essayons de faciliter cette approche pour les R users.
 **Au programme 🎓 ?**
 
 ## Installation de GitHub Copilot pour R  
-   Nous l'avions sur VS Code, c'est maintannat possible pour R. Bénéficiez de suggestions de code et d’autocomplétions instantanées directement dans RStudio.
+   Nous l'avions sur VS Code, c'est maintenant possible pour R. Bénéficiez de suggestions de code et d’autocomplétions instantanées directement dans RStudio.
 
 ## Addins AIAddin 
    Nous avons développé le package AIAddin pour converser avec ChatGPT, Groq et DeepSeek depuis l’onglet Viewer de RStudio. 
