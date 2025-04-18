@@ -53,10 +53,10 @@ AIAddin lit trois variables d’environnement :
 Une fois installé, il suffit d'appeler les fonctions
 
 ```r
-library(IAAddin)
-IAAddin::deepseek_addin()
-IAAddin::chatgpt_addin()
-IAAddin::groq_addin()
+library(AIAddin)
+AIAddin::deepseek_addin()
+AIAddin::chatgpt_addin()
+AIAddin::groq_addin()
 ```
 
 De plus, tes trois Addins (DeepSeek, ChatGPT, Groq) seront disponibles dans **Addins → Browse Addins…**.
