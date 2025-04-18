@@ -7,7 +7,7 @@
 ## Vibe coding
 
 *"There's a new kind of coding I call 'vibe coding', where you fully give in to the vibes, embrace exponentials, and forget that the code even exists."
-Ce dépôt rassemble les outils et workflows R que nous utiliserons lors de cet exposé :"*
+
 *Andrej Karpathy*
 
 Le Vibe Coding est une nouvelle approche de programmation où l'accent est mis sur les idées créatives et la collaboration avec l'IA, plutôt que sur les détails techniques.
